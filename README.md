@@ -1,6 +1,5 @@
 # 👋 Olá! Eu sou o **Guaxinim FullStack**  
 🎯 **Desenvolvedor Full Stack apaixonado por tecnologia!**  
-🚀 Sempre explorando novas soluções e criando projetos incríveis.  
 
 ---
 
